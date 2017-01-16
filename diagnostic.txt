@@ -1,0 +1,13 @@
+$ adb logcat drma_activityspy:V *:S
+--------- beginning of system
+--------- beginning of main
+01-15 22:08:07.203 27129 27129 I drma_activityspy: onCreate event fired
+01-15 22:08:07.213 27129 27129 I drma_activityspy: onStart event fired
+01-15 22:08:07.213 27129 27129 I drma_activityspy: onResume event fired
+01-15 22:08:10.273 27129 27129 I drma_activityspy: onPause event fired
+01-15 22:08:10.293 27129 27129 I drma_activityspy: onStop event fired
+01-15 22:08:12.773 27129 27129 I drma_activityspy: onStart event fired
+01-15 22:08:12.773 27129 27129 I drma_activityspy: onResume event fired
+01-15 22:08:14.033 27129 27129 I drma_activityspy: onPause event fired
+01-15 22:08:14.043 27129 27129 I drma_activityspy: onStop event fired
+01-15 22:08:15.743 27129 27129 E drma_activityspy: We’re going down, Captain!
